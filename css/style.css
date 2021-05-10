@@ -666,3 +666,14 @@ about section
     line-height: 26px;
     margin: 15px 0 0;
 }
+
+/*------
+
+service-section
+
+-------*/
+
+.service-section{
+  padding: 80px 0 80px;
+  min-height: 100vh;
+}
