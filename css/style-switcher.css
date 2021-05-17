@@ -31,7 +31,7 @@
 .style-switcher .s-icon::after{
     border-radius: 50%;
 }
-.style-switcher .style-toggler{
+.style-switcher .style-switcher-toggler{
     top: 0;
 }
 .style-switcher .day-night{
