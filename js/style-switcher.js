@@ -21,7 +21,7 @@ const alternateStyles = document.querySelectorAll(".alternate-style");
 function setabc(color) {
     localStorage.setItem("color", color);
     changeColor();
-
+    console.log(abc)
 }
 
 function changeColor() {
