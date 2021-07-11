@@ -18,6 +18,7 @@ window.addEventListener("scroll", () => {
 
 const alternateStyles = document.querySelectorAll(".alternate-style");
 
+
 function sssss(color) {
     localStorage.setItem("color", color);
     changeColor();
